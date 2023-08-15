@@ -1,0 +1,16 @@
+body{
+    background-image: url(jihad.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+a:link{
+    color: rgb(255, 158, 158);
+}
+a:hover{
+    color: rgb(255, 158, 158);
+    font-size: 1.1em;
+}
+
+
